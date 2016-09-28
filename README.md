@@ -1,4 +1,4 @@
-# HackerRank---Security-Domain-Solutions
+# HackerRank_Security
 
 My solutions for the questions under Security in HackerRank.
 Challenges can be found here -> [HackerRank -- Security Domain Challenges](https://www.hackerrank.com/domains/security/functions)
